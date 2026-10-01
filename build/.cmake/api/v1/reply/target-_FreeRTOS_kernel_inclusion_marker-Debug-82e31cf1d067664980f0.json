@@ -1,0 +1,41 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "_FreeRTOS_kernel_inclusion_marker::@c40e125167e913637b72",
+	"name" : "_FreeRTOS_kernel_inclusion_marker",
+	"paths" : 
+	{
+		"build" : "FREERTOS_KERNEL",
+		"source" : "lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

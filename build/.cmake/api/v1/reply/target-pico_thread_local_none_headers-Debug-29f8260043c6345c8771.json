@@ -1,0 +1,49 @@
+{
+	"abstract" : true,
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"pico_add_library"
+		],
+		"files" : 
+		[
+			"lib/pico-sdk/src/CMakeLists.txt",
+			"lib/pico-sdk/src/rp2_common/pico_thread_local/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 111,
+				"parent" : 1
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "pico_thread_local_none_headers::@7961ecafe901dd000d34",
+	"name" : "pico_thread_local_none_headers",
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2_common/pico_thread_local",
+		"source" : "lib/pico-sdk/src/rp2_common/pico_thread_local"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

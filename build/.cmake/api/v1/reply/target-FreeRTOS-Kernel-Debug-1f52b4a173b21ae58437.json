@@ -1,0 +1,124 @@
+{
+	"abstract" : true,
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/library.cmake",
+			"lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 2
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "FreeRTOS-Kernel::@c40e125167e913637b72",
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "FreeRTOS-Kernel-Core::@c40e125167e913637b72"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "pico_base_headers::@33789676aab31f619839"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "hardware_clocks::@252b8e5380721ae85cc3"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "hardware_exception::@f7caa2d380f625680559"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "pico_multicore::@9a13c1d01dbacaad7b33"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "FreeRTOS-Kernel-Core::@c40e125167e913637b72"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "pico_base_headers::@33789676aab31f619839"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "hardware_clocks::@252b8e5380721ae85cc3"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "hardware_exception::@f7caa2d380f625680559"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "pico_multicore::@9a13c1d01dbacaad7b33"
+		}
+	],
+	"interfaceSources" : 
+	[
+		{
+			"path" : "lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/port.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"name" : "FreeRTOS-Kernel",
+	"paths" : 
+	{
+		"build" : "FREERTOS_KERNEL",
+		"source" : "lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"interfaceSourceIndexes" : 
+			[
+				0
+			],
+			"name" : "Source Files",
+			"sourceIndexes" : []
+		}
+	],
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

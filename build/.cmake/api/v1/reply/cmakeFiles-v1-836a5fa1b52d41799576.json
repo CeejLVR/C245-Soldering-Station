@@ -1,0 +1,681 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/pico-vscode.cmake"
+		},
+		{
+			"path" : "pico_sdk_import.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/pico_sdk_version.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/pico_utils.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/pico_pre_load_platform.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/generic_board.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/preload/platforms/rp2040.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/pico_pre_load_toolchain.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.4/CMakeSystem.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/preload/toolchains/pico_arm_cortex_m0plus_gcc.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/preload/toolchains/util/pico_arm_gcc_common.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/preload/toolchains/util/pico_gcc_common.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/preload/toolchains/util/find_compiler.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/preload/toolchains/util/set_flags.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.3.4/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"path" : "lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/FreeRTOS_Kernel_import.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/picotool/2.3.1/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/picotool/2.3.1/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/picotool/2.3.1/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/picotool/2.3.1/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_base_headers/generate_config_header.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_base_headers/include/pico/version.h.in"
+		},
+		{
+			"path" : "lib/pico-sdk/tools/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/cmake/rp2_common.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/cmake/on_device.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/boot_picobin_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/boot_picoboot_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/boot_uf2_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_base_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_usb_reset_interface_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_bit_ops_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_binary_info/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_divider_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_sync/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_time/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_util/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/pico_stdlib_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/common/hardware_claim/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040/pico_platform/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040/hardware_regs/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040/hardware_structs/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040/boot_stage2/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FindPython3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_base/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_adc/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_boot_lock/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_clocks/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_divider/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_dma/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_exception/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_flash/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_gpio/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_i2c/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_interp/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_irq/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_pio/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_pll/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_pwm/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_resets/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_rosc/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_rtc/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_spi/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_sync/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_sync_spin_lock/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_ticks/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_timer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_uart/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_vreg/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_watchdog/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_xip_cache/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/hardware_xosc/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/boot_bootrom_headers/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_platform_common/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_platform_compiler/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_platform_sections/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_platform_panic/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_aon_timer/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_bootrom/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_bootsel_via_double_reset/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_multicore/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_unique_id/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_atomic/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_bit_ops/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_divider/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_double/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_int64_ops/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_flash/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_float/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_low_power/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_mem_ops/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_malloc/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_printf/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_rand/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_thread_local/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_stdio_semihosting/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_stdio_uart/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_stdio_rtt/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/cmsis/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/tinyusb/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/lib/tinyusb/hw/bsp/family_support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/CMakePrintHelpers.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/lib/tinyusb/hw/bsp/rp2040/family.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/lib/tinyusb/hw/bsp/rp2040/boards/pico_sdk/board.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/lib/tinyusb/hw/bsp/rp2040/pico_sdk_import.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_stdio_usb/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_usb_reset/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_i2c_slave/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_async_context/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_btstack/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_mbedtls/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_lwip/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_lwip/tools/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_cyw43_arch/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_time_adapter/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_crt0/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_clib_interface/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_cxx_options/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_standard_binary_info/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_standard_link/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_standard_link/pico_flash_region.template.ld"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_standard_link/pico_psram_region.template.ld"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2040/pico_platform/memmap_default.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_fix/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_status_led/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/tools/2.3.1/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_runtime_init/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_runtime/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_stdio/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/src/rp2_common/pico_stdlib/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/pico-sdk/docs/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FindDoxygen.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Christian/.pico-sdk/cmake/v4.3.4/share/cmake-4.3/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/CMakeLists.txt"
+		},
+		{
+			"path" : "lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/pico_sdk_import.cmake"
+		},
+		{
+			"path" : "lib/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"path" : "lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/library.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/Christian/C245-Soldering-Station/build",
+		"source" : "C:/Users/Christian/C245-Soldering-Station"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
