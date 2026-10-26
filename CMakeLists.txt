@@ -28,8 +28,22 @@ include(${CMAKE_CURRENT_LIST_DIR}/lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP
 add_executable(solder_station
     src/main.c
     src/hooks.c
+    src/station.c
+    src/gpio_irq.c
     src/heater.c
+    src/ext_watchdog.c
+    src/ads1220.c
+    src/i2c_bus.c
+    src/mcp9808.c
+    src/ssd1306.c
+    src/input.c
+    src/pid.c
+    src/thermo.c
+    src/storage.c
     src/control_task.c
+    src/safety_task.c
+    src/ui_task.c
+    src/log_task.c
 )
 
 target_include_directories(solder_station PRIVATE
@@ -39,10 +53,16 @@ target_include_directories(solder_station PRIVATE
 
 target_link_libraries(solder_station
     pico_stdlib
-    hardware_pwm
+    hardware_spi
+    hardware_i2c
+    hardware_flash
+    hardware_sync
+    hardware_watchdog
     FreeRTOS-Kernel
     FreeRTOS-Kernel-Heap4
 )
+
+target_compile_options(solder_station PRIVATE -Wall -Wextra -Wno-unused-parameter)
 
 pico_enable_stdio_usb(solder_station 1)
 pico_enable_stdio_uart(solder_station 0)
